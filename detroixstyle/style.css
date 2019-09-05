@@ -1,0 +1,138 @@
+body {
+    background-color: #f3f2f5;
+}
+.top {
+    text-decoration: none;
+    color: grey;
+}
+.topnav {
+    text-decoration: none;
+    color: grey;
+}
+.outtertop {
+    background-color: #111b27;
+}
+.primarynavs {
+    padding-top: 19px;
+    padding-left: 216px;
+}
+.primarynav {
+    border: #f3f2f5 0px solid;
+    font-size: 16px;
+    border-radius: 7px;
+    padding: 16px;
+    background-color: #111b27;
+    text-decoration: none;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    transform: uppercase;
+}
+.active {
+    background-color: orange;
+}
+.midbtn {
+    border-radius: 50%;
+    width: 36px;
+    height: 26px;
+    border: none;
+}
+.btn {
+    background-color: orange;
+}
+.more {
+    width: 60px;
+    background-color: #131f2d;;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+.values {
+    margin-bottom: 20px;
+}
+.hrline {
+
+}
+.vert {
+    border-left: 1.5px solid #b3b3b3;
+}
+.btmpg {
+    background: linear-gradient(#3d6c9d,#131f2d);
+}
+.servicesdiv {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.servicesbtm {
+    font-weight: 100;
+}
+.opportunitydiv {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.opp {
+    font-weight: 100;
+}
+.newsdiv {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.news{
+    font-weight: 100;
+}
+.btm {
+    background-color: #0b4783;
+}
+.oppli {
+    padding-left: 0px;
+}
+.listservices {
+    color: grey;
+    font-size: 12px;
+}
+.servicelist {
+    padding-left: 15px;
+}
+.innerbtm {
+    background: linear-gradient(#3d6c9d,#131f2d);
+}
+.oppp {
+    color: grey;
+    font-size: 10px;
+}
+.daymon {
+    padding-left: 0px;
+    border-left: 5px; 
+}
+.daymona {
+    background-color: gold;
+    border-radius: 10%;
+    text-align: center;
+    height: 60px;
+}
+.daymonb {
+    background-color: #bc6143;
+    border-radius: 10%;
+    text-align: center;
+    height: 60px;
+}
+.daymonc {
+    background-color: #bd425e;
+    border-radius: 10%;
+    text-align: center;
+    height: 60px;
+}
+.date {
+    font-size: 35px;
+}
+.newsp {
+    font-size: 14px;
+    color: grey;
+}
+.outterft {
+    background-color: #111b27;
+    color: grey;
+    font-size: 8px;
+}
